@@ -1,0 +1,23 @@
+{
+  "name": "training-typescript",
+  "version": "1.0.0",
+  "description": "Introduction to Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinaskiz/training-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinaskiz/training-typescript/issues"
+  },
+  "homepage": "https://github.com/Chinaskiz/training-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
